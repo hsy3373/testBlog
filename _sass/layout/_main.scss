@@ -17,7 +17,7 @@
         }
 
         .day {
-            background-color: black;
+            background-color: #dfd3c3;
             color: white;
             width: 5rem;
             height: 5rem;
@@ -75,6 +75,7 @@
             margin-bottom: 6rem;
         }
 
+        // about페이지 상단 컬러
         header {
             background-color: #c7b199;
             color: white;
@@ -98,10 +99,10 @@
 
         section h2 {
             font-size: 4rem;
-            color: #1c3340;
+            color: #9b8273;
             margin: 0;
             margin-bottom: 1rem;
-            border-bottom: 3px solid #1C3340;
+            border-bottom: 3px solid #643b1d;
         }
 
         section#intro {
@@ -127,12 +128,13 @@
                 margin-top: 2rem;
             }
 
+            // about 페이지 스킬 넣는 네모칸들
             div span {
                 font-size: 2rem;
                 display: inline;
-                background-color: #000000;
+                background-color: #685850;
                 color: white;
-                border: 1px solid #1C3340;
+                border: 1px solid #99867d;
                 padding: 0.5rem;
                 border-radius: 4px;
                 margin: 0rem;
