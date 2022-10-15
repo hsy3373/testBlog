@@ -186,10 +186,10 @@
             min-width: 2rem;
             font-size: 2rem;
             border-radius: 2px;
-            border: 1px solid #337AB7;
+            border: 1px solid #726155;
             display: inline-block;
             padding: 2px 11px;
-            box-shadow: 0 0 2px #337AB7;
+            box-shadow: 0 0 2px #726155;
         }
 
         ul li {
@@ -245,7 +245,7 @@ ul.tags {
         padding-left: 2rem;
 
         &.current {
-            background-color: #1C3340;
+            background-color: #726155;
         }
 
         &:hover:not(.current) {
@@ -271,7 +271,7 @@ ul.tags {
     margin-top: 1.5rem;
     text-align: center;
     line-height: 2rem;
-    box-shadow: 0 0 3px #1C3340;
+    box-shadow: 0 0 3px #726155;
     border-radius: 50%;
 }
 
